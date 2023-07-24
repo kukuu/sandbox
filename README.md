@@ -8,6 +8,6 @@ E-commerce and Open Banking API: Data modelling, middleware, bridges and API Int
 - https://github.com/kukuu/blockchain/tree/main/enable-banking-main
 - https://github.com/kukuu/blockchain/blob/main/Enable%20banking.mp4
 
-## Integration: 
+### Integration: 
 
 https://github.com/kukuu/integration
